@@ -19,7 +19,7 @@ num_tokens = len(enc.encode(comb_words))
 
 #Create client
 client = AzureOpenAI(
-    api_key="344fcd8722804e3f96712311470472e3",
+    api_key="aaaa-bbbc-ccdd-eeff",
     azure_endpoint="https://mf-aoai-aitalk.openai.azure.com/",
     api_version='2023-07-01-preview',
     azure_deployment='gpt-4'
